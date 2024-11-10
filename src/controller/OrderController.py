@@ -1,4 +1,3 @@
-from flask import request, jsonify
 from service.OrderService import OrderService
 
 class OrderController:
