@@ -1,4 +1,4 @@
-from src.main import db, SQLAlchemy
+from src.main import db
 from datetime import datetime
 
 class Order(db.Model) :
